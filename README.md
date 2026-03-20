@@ -1,2 +1,3 @@
-# modern-web-app-iow0
-A web application for modern development workflows
+# Modern Web App Iow0
+
+A web application for modern development workflows.
